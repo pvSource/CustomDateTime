@@ -8,7 +8,7 @@
 ## Установка
 
 ```bash
-composer require pavelsergeevich\test-composer-package
+composer require pavelsergeevich/datetime-package
 ```
 
 ## Использование 
